@@ -1,0 +1,10 @@
+W6D5 JS Test
+
+Do not stay stuck, use a smart testing strategy. Start with easier questions.
+some questions mix javascript css jquery
+Q2 stumps alot of people (read it)
+advanced form validation
+js sorting functions
+css menu
+filter
+transitions
